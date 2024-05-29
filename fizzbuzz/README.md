@@ -1,20 +1,21 @@
-# fizzbuzz 
+# 1.Fizzbuzz 
 Write a program that outputs the nunbers from 1 to 100. For numbers that are multiples of 3, print "number - Fizz".For numbers that are multiples of 5, print "number - Buzz". For numbers that are both multiples of 3 and multiples of 5, print "number - FizzBuzz". If a number is not divisible by both 3 or 5, simply print the number itself.
 
-Example
- 1
- 2
- 3 -Fizz
- 4 
- 5 -Buzz
- 6
- 7
- 8
- 9 -Fizz
- 10 - Buzz
- 11
- 12 - Buzz
- 13
- 14
- 15 - FizzBuzz
+## Example
+
+ 1  
+ 2  
+ 3 -Fizz  
+ 4   
+ 5 -Buzz  
+ 6  
+ 7  
+ 8  
+ 9 -Fizz  
+ 10 - Buzz  
+ 11  
+ 12 - Buzz  
+ 13  
+ 14  
+ 15 - FizzBuzz  
 
